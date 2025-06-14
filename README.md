@@ -29,6 +29,11 @@ PowerFuel is a single-page website featuring:
 
 ---
 
+🔗 Live Demo
+
+[👉 Click here to view the live page](https://harkiratsingh70.github.io/Dummy-Whey-protien-website/)
+
+
 ⚙️ Features
 
 - 📦 Three whey protein flavors: Chocolate Charge, Vanilla Velocity, and Strawberry Surge  
